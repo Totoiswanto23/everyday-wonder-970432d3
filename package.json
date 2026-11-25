@@ -1,0 +1,11 @@
+{
+  "name": "everyday-wonder-970432d3",
+  "version": "1.0.0",
+  "description": "One sentence that makes a small everyday moment strange and new: a lift mirror, a yawn, and a stranger politely ignoring himself.",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
